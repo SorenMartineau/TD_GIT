@@ -5,7 +5,7 @@ int main(){
 
     char secret[] = "cristaux";
     char lettre;
-    float index[100];
+    int index[100];
     int progress_lose = 0;
     int correct = 0;
     int win;
