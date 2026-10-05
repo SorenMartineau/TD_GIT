@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-
+    // SALUT C MOI TON COLLABORATEUR COMME EN RUSSIE ENFIN URSS
     char secret[] = "cristaux";
     char lettre;
     float index[100];
